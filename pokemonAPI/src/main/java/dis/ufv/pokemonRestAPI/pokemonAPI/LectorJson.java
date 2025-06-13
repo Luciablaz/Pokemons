@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 
 public class LectorJson {
-    public ArrayList<Pokemon> leeFicheroJson(String fichero){
+    public ArrayList<Pokemon> leeFicheroJson(){
         try {
             //lee el fichero que le pasemos y lo carga en un reader
             BufferedReader reader = new BufferedReader(
