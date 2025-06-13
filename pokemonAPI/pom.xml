@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>dis.ufv.pokemonRestAPI</groupId>
 	<artifactId>pokemonAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>pokemonAPI</name>
 	<description>Ejemplo de API REST con Pokemon</description>
 	<url/>
