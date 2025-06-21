@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pokemonAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/pokemonAPI_front/pom.xml" />
       </list>
     </option>
   </component>
